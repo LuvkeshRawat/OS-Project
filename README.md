@@ -189,7 +189,7 @@ Potential improvements:
 - [ ] Downloadable results/reports
 - [ ] Custom algorithm implementation interface
 - [ ] Preset benchmark scenarios
-- [ ] Multilingual support
+- [ ] Multilingual supportw
 
 ## License
 
